@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hello, I'm Mudasser !
 
-<!--
-**Mud0610/Mud0610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Education**: B.E. in Computer Engineering with Honours in Cybersecurity  
+🛠 **Tech Stack**:  
+- **Languages**: C, C++, Python, JavaScript, Java  
+- **Web Development**: HTML, CSS, JavaScript, Flask, PHP, React.js, Express.js, Node.js  
+- **Databases**: SQL, MongoDB  
+- **Other Skills**: Git, Data Structures & Algorithms, AWS, GCP
 
-Here are some ideas to get you started:
+🌱 **Currently Learning**: MERN Stack and DSA  
+🚀 **Interests**: MERN Stack Development, Cybersecurity, AI-driven solutions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+💬 **Let's Connect**: [LinkedIn Profile](https://www.linkedin.com/in/mudasser-ali-shaikh/) | [LeetCode](https://leetcode.com/u/Mudasser_02/)
+
+⚡ **Fun Fact**: I love solving coding challenges, participating in hackathons, and tackling CTFs (Capture The Flag)!
