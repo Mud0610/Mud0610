@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Mudasser !
 
 🎓 **Education**: B.E. in Computer Engineering with Honours in Cybersecurity  
+
 🛠 **Tech Stack**:  
 - **Languages**: C, C++, Python, JavaScript, Java  
 - **Web Development**: HTML, CSS, JavaScript, Flask, PHP, React.js, Express.js, Node.js  
@@ -8,6 +9,7 @@
 - **Other Skills**: Git, Data Structures & Algorithms, AWS, GCP
 
 🌱 **Currently Learning**: MERN Stack and DSA  
+
 🚀 **Interests**: MERN Stack Development, Cybersecurity, AI-driven solutions  
 
  
